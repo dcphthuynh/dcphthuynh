@@ -5,18 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcphthuynh&label=Profile%20views&color=0e75b6&style=flat" alt="dcphthuynh" /> </p>
 
-- 🔭 I’m currently working on [Flash Chat](https://github.com/dcphthuynh/Flash-Chat)
+- I’m currently working on ...
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- I’m currently working with **Flutter** and learning **Swift**
 
-- 💬 Ask me about **Mobile Develop**
+- Ask me about **Mobile Develop**
 
-- 📫 How to reach me **ducphat1311@gmail.com**
+- How to reach me **ducphat1311@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- Social links removed -->
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
